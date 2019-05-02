@@ -1,13 +1,13 @@
 ---
-title: Mongo Db Notes
+title: 001-Mongo Db Notes
 created: '2019-04-30T19:27:39.336Z'
-modified: '2019-04-30T22:48:23.256Z'
+modified: '2019-05-01T05:35:12.429Z'
 tags: [Mongo]
 ---
 
-# Mongo Db Notes 
+# 001-Mongo Db Notes 
 
-# 001 - Mongo 4.0 summary 
+# Mongo 4.0 summary 
 
 
 * **Mutli Document Async Transaction** 
